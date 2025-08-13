@@ -1,4 +1,4 @@
-Alright — here’s your **full beginner-friendly README** with the complete setup instructions for **Sheety** and **Amadeus** included.
+
 
 ---
 
